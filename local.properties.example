@@ -1,0 +1,6 @@
+# Archivo de ejemplo para configuración local.
+# Copia este archivo como 'local.properties' y añade tu clave de Google AI Studio:
+#
+# sdk.dir=/ruta/a/tu/Android/Sdk
+GEMINI_API_KEY=tu_api_key_de_google_ai_studio_aqui
+
